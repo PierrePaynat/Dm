@@ -11,12 +11,12 @@ Après quoi, on a trouvé des démos, ça rendait bien mais on comprenait vite f
 experimenté mais comme la flemme prime sur ce sus-dit monde cité au préalable, eh bah on l'a pas fait.
 Du coup pour eviter d'avoir un C, alors qu'on a passé à peu près l'équivalent d'une période de gestation à le faire
 (gestation d'éléphant[1]), on a refait un programme pas piqué des hannetons.
-Le problème étant qu'il fallait démontrer la correction, et que notre travail si parfait ne méritait pas d'explications, pour ne pas dire claire comme de l'eau de roche. 
+Le problème étant qu'il fallait démontrer la correction, et que notre travail si parfait ne méritait pas d'explications, pour ne pas dire il est claire comme de l'eau de roche. 
 Subséquemment, on a khollé un pdf comme vous le mercredi après-midi et on s'est sauvé en mode docteur Zoïdberg[2].
-Nous nous souvenâmes alors de l'enseignement de notre maître millénaire, sus-nommé Rapor-Jésus[3], nous revenâmes sur notre
+Nous nous souvenâmes de l'enseignement de notre maître millénaire, sus-nommé Rapor-Jésus[3], nous revenâmes sur notre
 décision pour enfin terminer cette quête qu'est le dm.
 Nous fusionnâmes alors en ThibOdéPierrSousou et trouvâmes la sacro-sainte démo nous permettant alors de finir ce travail
-harrasant et enfin vous le confier, vous, le professionel invétéré du binaire, un dm de qualité méritant un A+.
+harrasant et enfin vous le confier, vous, le professionel invétéré du binaire, un dm de qualité supérieure méritant un A+.
 
 Sur un excès d'inspiration, Odéric NISEN (le narrateur), Thibaut CAILLEREZ, Pierre PAYNAT, Damier SOUFFLET (Sousou)
 
